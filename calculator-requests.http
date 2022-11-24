@@ -1,0 +1,11 @@
+### Сложение
+GET http://localhost:8080/calculator/plus?num1=5.5&num2=6.9
+
+### Вычитание
+GET http://localhost:8080/calculator/minus?num1=5.5&num2=6.9
+
+### Умножение
+GET http://localhost:8080/calculator/multiply?num1=5.5&num2=6.9
+
+### Деление
+GET http://localhost:8080/calculator/divide?num1=5.5&num2=0
